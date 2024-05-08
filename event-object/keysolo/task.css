@@ -7,7 +7,7 @@
 }
 
 .word_incorrect {
-  background: red;
+  background: #ff0000;
   color: #fff;
 }
 
